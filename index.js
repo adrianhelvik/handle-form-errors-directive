@@ -41,7 +41,7 @@
                 var norwegianLocales = [ 'nb-no', 'no-no', 'no' ];
 
                 // Use norwegian locale if that is used
-                if ( norwegianLocales.indexOf( $locale.id ) !== 1- ) {
+                if ( norwegianLocales.indexOf( $locale.id ) !== -1 ) {
                     errorTemplates = {
                         email: 'Ugyldig epostadresse',
                         required: 'Påkrevd',
