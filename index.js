@@ -17,7 +17,7 @@
     function handleFormErrorsDirective( $locale ) {
         return {
             restrict: 'E',
-            templateUrl: '<div><span ng-if=hasError()>{{ getError() }}</span></div>',
+            template: '<div><span ng-if=hasError()>{{ getError() }}</span></div>',
             replace: true,
             require: '^form',
             scope: {
