@@ -1,0 +1,23 @@
+{
+  "name": "handle-form-errors-directive",
+  "description": "Handle form errors in AngularJS elegantly",
+  "main": "index.js",
+  "authors": [
+    "Adrian <adrianhelvik100@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "AngularJS",
+    "form",
+    "error"
+  ],
+  "homepage": "https://github.com/adrianhelvik/handle-form-errors-directive",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
