@@ -13,6 +13,9 @@
   ],
   "homepage": "https://github.com/adrianhelvik/handle-form-errors-directive",
   "moduleType": [],
+  "dependencies": {
+      "angular": "~1.4.8"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
