@@ -1,5 +1,7 @@
 (function () {
-    angular.module( 'handleFormErrorsDirective', [] )
+    angular.module( 'handleFormErrorsDirective', [
+        'ngLocale'
+    ] )
         .directive( 'handleFormErrors', handleFormErrorsDirective );
 
     handleFormErrorsDirective.$inject = [ '$locale' ];

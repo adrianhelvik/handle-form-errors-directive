@@ -1,6 +1,6 @@
 {
   "name": "handle-form-errors-directive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Handle form errors in AngularJS elegantly",
   "main": "index.js",
   "scripts": {
